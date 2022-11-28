@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oyedele Tomilola, a data analyst with strong background in finance
-- 👀 I am analytically curious with proficiency working with excel and powerBI
+- 👀 I am analytical and i have proficiency working with excel and powerBI
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on side projects
 - 📫 I am passionate about working on projects that solve problems.
